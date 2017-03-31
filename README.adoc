@@ -2,4 +2,8 @@
  
 Based on https://github.com/HuygensING/js-scaffold
 
+== vscode configuration
+
+- [ ] install the tslint extension
+
 
